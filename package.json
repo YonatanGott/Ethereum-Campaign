@@ -1,0 +1,16 @@
+{
+  "name": "campaign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YonatanGott/Ethereum-Campaign.git",
+  "author": "Yonatan Gottdiener <godiner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.5",
+    "fs-extra": "^10.0.1",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "solc": "^0.8.13",
+    "web3": "^1.7.3"
+  }
+}
